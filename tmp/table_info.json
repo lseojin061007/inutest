@@ -1,0 +1,147 @@
+﻿{
+    "순번":  {
+               "description":  "Note:\nThis is a Primary Key.\u003cpk/\u003e",
+               "format":  "bigint",
+               "type":  "integer"
+           },
+    "학기":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "대학(원)":  {
+                  "format":  "text",
+                  "type":  "string"
+              },
+    "학과(부)":  {
+                  "format":  "text",
+                  "type":  "string"
+              },
+    "학년":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "이수구분":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "이수영역":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "학수번호":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "교과목명":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "교과목명(영문)":  {
+                     "format":  "text",
+                     "type":  "string"
+                 },
+    "담당교수":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "소속":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "강의실":  {
+                "format":  "text",
+                "type":  "string"
+            },
+    "시간표(교시)":  {
+                    "format":  "text",
+                    "type":  "string"
+                },
+    "시간표(시간)":  {
+                    "format":  "text",
+                    "type":  "string"
+                },
+    "교시유형":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "학점":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "시수":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "이론":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "실습":  {
+               "format":  "text",
+               "type":  "string"
+           },
+    "정원":  {
+               "format":  "bigint",
+               "type":  "integer"
+           },
+    "수강":  {
+               "format":  "bigint",
+               "type":  "integer"
+           },
+    "수강(남)":  {
+                  "format":  "bigint",
+                  "type":  "integer"
+              },
+    "수강(여)":  {
+                  "format":  "bigint",
+                  "type":  "integer"
+              },
+    "재수강":  {
+                "format":  "bigint",
+                "type":  "integer"
+            },
+    "수업구분":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "수업유형":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "집중이수제":  {
+                  "format":  "text",
+                  "type":  "string"
+              },
+    "성적평가":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "원어강의":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "원어강의구분":  {
+                   "format":  "text",
+                   "type":  "string"
+               },
+    "원어강사료지급":  {
+                    "format":  "text",
+                    "type":  "string"
+                },
+    "캡스톤디자인":  {
+                   "format":  "text",
+                   "type":  "string"
+               },
+    "수강대상":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "수업방법":  {
+                 "format":  "text",
+                 "type":  "string"
+             },
+    "비고":  {
+               "format":  "text",
+               "type":  "string"
+           }
+}
